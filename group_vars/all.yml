@@ -1,0 +1,7 @@
+---
+
+#Satellite Variables
+satellite_url: "satellite.example.org"
+satellite_org_id: "Default_Organization"
+satellite_katello_rpm: "http://{{ satellite_url }}/pub/katello-ca-consumer-latest.noarch.rpm"
+activation_key: "ak_rhel"
